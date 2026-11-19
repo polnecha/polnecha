@@ -24,7 +24,7 @@ In my projects I usually take the analyst role: I describe processes, write **re
 
 ### Highlights
 
-- **1st place at the hackathon "Code Facets: Drive & Breakthrough"** (Perm, 2025, organised by Astrakhan State University)
+- **1st place at the hackathon "Facets: Drive & Breakthrough"** (Perm, 2025, organised by Astrakhan State University)
   Team of 4: a Linux tool for CPU core isolation. Planned and split the tasks, prepared the Ubuntu environment and defended the project.
 - **Diploma project for a real sports club** (PSU College, 2024)
   Analysed the club's processes, wrote the requirements, designed the database and built an accounting system for a sambo & judo club.
@@ -35,14 +35,13 @@ In my projects I usually take the analyst role: I describe processes, write **re
 
 ### Experience
 
-#### Intern · **ER-Telecom Holding**, Perm (06.2023 – 07.2023)
+#### Student intern (practicum) · **ER-Telecom Holding**, Perm (06.2023 – 07.2023)
 Project group Problem2Solution, BSS implementation.
 - Studied the documentation of the mass customer notification service
-- Wrote SQL queries for a report on notifications to customers with debts (account, amount, call status)
-- Built a web interface for the report with filters by notification type and period
+- Wrote SQL queries for a report on notifications to customers with debts
 
-#### Intern · **Progressive Information Technologies**, Perm (12.2022)
-- Studied Java Core and built a Snake game
+#### Student intern (practicum) · **Progressive Information Technologies**, Perm (12.2022)
+- Studied the basics of Java Core
 
 ### Featured Projects
 
