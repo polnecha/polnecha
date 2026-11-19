@@ -24,7 +24,7 @@ In my projects I usually take the analyst role: I describe processes, write **re
 
 ### Highlights
 
-- **1st place at the hackathon "Facets: Drive & Breakthrough"** (Perm, 2025, organised by Astrakhan State University)
+- **1st place at the hackathon "Code Facets: Drive & Breakthrough"** (Perm, 2025, organised by Astrakhan State University)
   Team of 4: a Linux tool for CPU core isolation. Planned and split the tasks, prepared the Ubuntu environment and defended the project.
 - **Diploma project for a real sports club** (PSU College, 2024)
   Analysed the club's processes, wrote the requirements, designed the database and built an accounting system for a sambo & judo club.
