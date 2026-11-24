@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:14b8a6&height=170&section=header&text=Polina%20Nechaeva&fontSize=44&fontColor=ffffff&desc=Aspiring%20Business%20%2F%20Systems%20Analyst&descSize=18&descAlignY=72&animation=fadeIn" alt="Polina Nechaeva" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:14b8a6&height=170&section=header&text=%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0%20%D0%9D%D0%B5%D1%87%D0%B0%D0%B5%D0%B2%D0%B0&fontSize=44&fontColor=ffffff&animation=fadeIn" alt="Полина Нечаева" width="100%" />
 </p>
 
 <p align="center">
-  Aspiring Business / Systems Analyst and student at Perm State University. Looking for an internship in business or systems analysis.
+  Студентка ПГНИУ. Ищу стажировку аналитиком.
 </p>
 
 <p align="center">
@@ -16,93 +16,95 @@
 
 ---
 
-### About Me
+### Обо мне
 
-I'm a 3rd-year student of **Fundamental Informatics and Information Technologies** at Perm State University (GPA **4.85/5**). Before that I graduated from PSU College in **Information Systems and Programming** with a GPA of **5.0/5**.
+Студентка 3 курса ПГНИУ по направлению «Фундаментальная информатика и информационные технологии». В учебных проектах и на практике работала с требованиями и моделировала процессы. Лучше всего у меня получается разбираться в задаче, уточнять требования и описывать их так, чтобы команде было понятно, что нужно сделать. Ищу стажировку аналитиком.
 
-In my projects I usually take the analyst role: I describe processes, write **requirements** and **technical specifications**, and design **databases**. I've done this in my diploma project and in team projects at university.
+### Опыт работы
 
-### Highlights
+#### Яндекс Крауд · Асессор 2 категории · ноябрь 2024 — май 2025
 
-- **1st place at the hackathon "Code Facets: Drive & Breakthrough"** (Perm, 2025, organised by Astrakhan State University)
-  Team of 4: a Linux tool for CPU core isolation. Planned and split the tasks, prepared the Ubuntu environment and defended the project.
-- **Diploma project for a real sports club** (PSU College, 2024)
-  Analysed the club's processes, wrote the requirements, designed the database and built an accounting system for a sambo & judo club.
-- **Analyst and technical writer in a team project** (PSU, 2025)
-  HR Telegram bot: wrote the technical specification, agreed the requirements with the customer, wrote the project report and the presentation.
-- **Analyst in a team of 8** (PSU, 2026)
-  coolinaa: a smart recipe book web service.
+Работала над оценкой качества поиска, рекомендаций и ответов Алисы. Отвечала за проверку релевантности поисковой выдачи, сопоставляя результаты с запросами пользователей. Оценивала удобство сайтов, достоверность информации и подбор товаров и рекламы. Проверяла ответы Алисы по критериям для асессоров.
 
-### Experience
+**Достижения**
 
-#### Student intern (practicum) · **ER-Telecom Holding**, Perm (06.2023 – 07.2023)
-Project group Problem2Solution, BSS implementation.
-- Studied the documentation of the mass customer notification service
-- Wrote SQL queries for a report on notifications to customers with debts
+- Провела анализ поведения пользователей, оценивая отзывы, время пребывания на страницах и предпочтения при выборе ресурсов.
+- Определяла релевантность контента, сопоставляя результаты поисковой выдачи с запросами пользователей.
+- Оценивала ответы Алисы и других моделей ИИ Яндекса по установленным критериям.
+- Выявляла использование запрещённых SEO-практик, включая поисковый спам, дублирование сайтов и искусственную активность.
+- Оценивала качество сайтов по структуре, удобству, достоверности информации и количеству рекламы.
+- Участвовала в улучшении рекомендательных алгоритмов, оценивая корректность подбора товаров и рекламных предложений.
 
-#### Student intern (practicum) · **Progressive Information Technologies**, Perm (12.2022)
-- Studied the basics of Java Core
+#### ЭР-Телеком Холдинг · Практикант · июнь — август 2023
 
-### Featured Projects
+Проходила практику в проектной группе Problem2Solution, которая занималась внедрением BSS. Работала с сервисом массового оповещения клиентов о задолженности. Отвечала за подготовку отчёта по отправленным уведомлениям. Изучала документацию сервиса, писала SQL-запросы для отбора данных и разрабатывала веб-форму для выгрузки отчёта.
 
-- **[sambo-club-accounting](https://github.com/polnecha/sambo-club-accounting)** — diploma project: AS-IS / TO-BE analysis in IDEF0, requirements, ER model, desktop app and Excel reports (C#, MySQL)
-- **[cattery](https://github.com/polnecha/cattery)** — web app for a veterinary clinic: patients, check-ups, vaccinations, search, Excel export (Java, Spring Boot, PostgreSQL)
-- **[ml_customer_churn](https://github.com/polnecha/ml_customer_churn)** — machine learning practice: churn prediction, classification, regression, regularization (Python, scikit-learn)
-- **[lab6-ansible-roles](https://github.com/polnecha/lab6-ansible-roles)** — server deployment with Ansible roles and CI/CD with GitHub Actions
+**Достижения**
 
-### Tech Stack
+- Спроектировала веб-форму для выгрузки отчёта с выбором периода и фильтрами по типу уведомления и каналу связи.
+- Создала сервис для отбора уведомлений за выбранный период.
+- Изучила документацию сервиса и определила, какие данные нужны для отчёта об оповещениях клиентов с задолженностью.
 
-#### Analysis & Modelling
-<p align="left">
-  <img src="https://img.shields.io/badge/IDEF0-0f766e?style=for-the-badge" alt="IDEF0" />
-  <img src="https://img.shields.io/badge/DFD-0f766e?style=for-the-badge" alt="DFD" />
-  <img src="https://img.shields.io/badge/ER%20modelling-0f766e?style=for-the-badge" alt="ER modelling" />
-  <img src="https://img.shields.io/badge/Technical%20specifications-0f766e?style=for-the-badge" alt="Technical specifications" />
-  <img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="draw.io" />
-  <img src="https://img.shields.io/badge/Ramus-555555?style=for-the-badge" alt="Ramus" />
-</p>
+**Стек** — C#, SQL, PostgreSQL, DBeaver, Visual Studio 2022.
 
-#### Data
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-</p>
+#### Прогрессивные информационные технологии · Практикант · ноябрь — декабрь 2022
 
-#### Programming
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-</p>
+В рамках производственной практики разработала «Змейку» — аркадную игру на Java. Игрок управляет змейкой, собирает еду и избегает столкновений. Отвечала за подготовку технического задания, разработку и тестирование игры.
 
-#### Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Docker%20(basic)-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker (basic)" />
-  <img src="https://img.shields.io/badge/Ansible%20(basic)-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible (basic)" />
-</p>
+**Достижения**
+
+- Подготовила техническое задание для игры «Змейка», в котором описала правила игры, управление и условия её завершения.
+- Реализовала игровую логику на Java, включая движение змейки, сбор еды и завершение игры при столкновении.
+- Протестировала основные сценарии игры, включая управление змейкой, сбор еды и завершение игры при столкновении.
+
+**Стек** — Java, Swing, AWT, IntelliJ IDEA.
+
+### Пет-проекты
+
+#### [Система учёта для спортивного клуба «Стахановец»](https://github.com/polnecha/sambo-club-accounting)
+
+Разработала приложение для учёта в спортивном клубе. Вела проект от сбора требований и анализа процессов до проектирования базы данных и разработки приложения.
+
+**Достижения**
+
+- Описала текущий порядок учёта в клубе и предложила, как организовать его в приложении.
+- Построила модели AS-IS и TO-BE с использованием IDEF0 и DFD.
+- Спроектировала базу данных MySQL из 16 таблиц для хранения данных клуба.
+- Реализовала разграничение прав доступа по ролям пользователей и добавила выгрузку отчётов в Excel.
+
+**Стек** — C#, .NET Framework 4.7.2, Windows Forms, MySQL, ClosedXML, Excel, IDEF0, DFD.
+
+#### [Веб-приложение для ветеринарной клиники](https://github.com/polnecha/cattery)
+
+Разработала веб-приложение для учёта животных, осмотров и прививок. Выполнила проект от проектирования базы данных до реализации основных функций приложения.
+
+**Достижения**
+
+- Спроектировала базу данных для хранения карточек животных, сведений об осмотрах и вакцинации.
+- Реализовала ведение карточек животных и учёт истории осмотров и прививок.
+
+**Стек** — Java, Spring Boot, PostgreSQL.
+
+#### Хакатон «Кодовые Грани: Драйв и Прорыв» — Пермь, 2025
+
+Разрабатывала приложение для изоляции ядер процессора в Linux в команде из 4 человек. Отвечала за организацию работы команды и защиту проекта.
+
+**Достижения**
+
+- Спланировала задачи команды по разработке приложения для изоляции ядер процессора.
+- Представила проект на защите. По итогам хакатона команда получила диплом I степени.
+
+**Стек** — Python, Linux (Ubuntu), VirtualBox.
+
+### Навыки и инструменты
+
+- **Анализ и моделирование** — бизнес-анализ, системный анализ, сбор и анализ требований, разработка технических заданий, техническая документация, моделирование бизнес-процессов, AS-IS / TO-BE, IDEF0, DFD, ERD, UML.
+- **Работа с данными** — SQL, PostgreSQL, MySQL, Excel, Python, pandas.
+- **Разработка и инструменты** — C#, Java, Git, Linux, Draw.io, PlantUML.
 
 ---
 
-### What I'm Interested In
-
-- Business and systems analysis
-- Requirements engineering and documentation
-- Process modelling and automation
-- Data analysis and SQL
-- Database design
-
-### Currently
-
-Studying at Perm State University (3rd year).
-Looking for an internship as a Business or Systems Analyst.
-
-### Contact
+### Контакты
 
 <p align="center">
   <a href="mailto:nechaeva.polina.03@gmail.com"><img src="https://img.shields.io/badge/Email-nechaeva.polina.03%40gmail.com-0f766e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
