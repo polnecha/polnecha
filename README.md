@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:14b8a6&height=170&section=header&text=%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0%20%D0%9D%D0%B5%D1%87%D0%B0%D0%B5%D0%B2%D0%B0&fontSize=44&fontColor=ffffff&animation=fadeIn" alt="Полина Нечаева" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9e2345,100:d34b5e&height=170&section=header&text=%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0%20%D0%9D%D0%B5%D1%87%D0%B0%D0%B5%D0%B2%D0%B0&fontSize=44&fontColor=ffffff&animation=fadeIn" alt="Полина Нечаева" width="100%" />
 </p>
 
 <p align="center">
@@ -114,5 +114,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:0f766e&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d34b5e,100:9e2345&height=100&section=footer" width="100%" />
 </p>
